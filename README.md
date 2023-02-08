@@ -1,16 +1,13 @@
-# paydala_flutter_webview_ref
+# paydala_flutter_webview_example
 
-A new Flutter project.
+Flutter application that uses the webview-pro plugin and the location plugin to implement the paydala widget.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run following command to install deps
+```
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow steps here to run application:
+[https://docs.flutter.dev/get-started/test-drive]()
