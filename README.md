@@ -28,7 +28,8 @@ flutter run
 
 ```
 
-For additional help follow these instructions:
+For additional help, follow these instructions:
+
 [https://docs.flutter.dev/get-started/test-drive]()
 
 ## Dependencies
