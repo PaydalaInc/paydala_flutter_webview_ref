@@ -12,7 +12,7 @@ Follow code in main.dart to  to embed the widget `WebViewExample` in the operato
 ### Use of CJWT
 Replace `cjwt` value with the one obtained from the operator's CJWT endpoint. CJWT is the client (operator) Identity and Access Management (IAM) token used to identify the operator and the category for which payment is sought. It is a JSON Web Token (JWT) signed by the operator's private key and passed as the `authorization` header in the `loadUrl` call that launches Paydala widget URL.
 
-###Build process
+### Build process
 Follow these steps to run the application
 
 ```
@@ -31,7 +31,7 @@ flutter run
 For additional help follow these instructions:
 [https://docs.flutter.dev/get-started/test-drive]()
 
-##Dependencies
+## Dependencies
 This reference app depends on the following packages
 
 * [location](https://pub.dev/packages/location)
