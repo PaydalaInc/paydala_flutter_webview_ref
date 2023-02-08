@@ -1,4 +1,4 @@
-# paydala_flutter_webview_example
+# paydala_flutter_webview_ref
 
 Flutter application that uses the webview-pro plugin and the location plugin to implement the paydala widget.
 
